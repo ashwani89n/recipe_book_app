@@ -1,16 +1,44 @@
-# recipe_app
+# Sample Recipe Book
 
-A new Flutter project.
+Submitted by: Ashwani Balakrishnan Neminimadathil
 
-## Getting Started
+A basic Flutter application built to view a food menu with their respective recipes.
 
-This project is a starting point for a Flutter application.
+Time spent: 1 hour spent in total
 
-A few resources to get you started if this is your first Flutter project:
+## Required Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The following **required** functionality is completed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [x] HomeScreen displaying a list of recipes
+* [x] DetailsScreen showing the details of a selected recipe
+* [x] Implement navigation between HomeScreen and DetailsScreen.
+* [x] Design an intuitive and user-friendly interface for both screens.
+* [x] Enable data passing from HomeScreen to DetailsScreen for accurate display of selected recipe information.
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://github.com/ashwani89n/recipe_book_app/blob/main/Ashwani_Recipe_App.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with Licecap Tool
+
+## License
+
+    Copyright [2023] [Ashwani Balakrishnan Neminimadathil]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+
